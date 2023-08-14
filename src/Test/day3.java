@@ -16,6 +16,8 @@ public class day3 {
 	public void Mobilecarloan()
 	{
 		System.out.println("mobilecar");
+		System.out.println("fgd");
+
 		
 	}
 	@Test
