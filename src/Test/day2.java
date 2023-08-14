@@ -12,6 +12,8 @@ public class day2 {
 	{
 		System.out.println("good");
 		System.out.println("url is here");
+		System.out.println("laugh");
+
 	}
 
 	
