@@ -9,6 +9,7 @@ public class day1 {
 	public void lastex()
 	{
 		System.out.println("i will execute last");	
+		System.out.println("shgdhs");
 	}
 	
 @Test(groups="{smoke}")
